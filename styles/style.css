@@ -49,4 +49,16 @@ nav a{
 .banner{
     padding: 30px 30px 30px 150px;
     display: flex;
+    align-items: center;
+}
+.banner-gretting{
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 5px;
+}
+.banner-title{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: ;
 }
